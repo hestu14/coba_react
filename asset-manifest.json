@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coba_react/static/css/main.54e1ebc4.chunk.css",
+    "main.js": "/coba_react/static/js/main.57fa738f.chunk.js",
+    "main.js.map": "/coba_react/static/js/main.57fa738f.chunk.js.map",
+    "runtime-main.js": "/coba_react/static/js/runtime-main.6a09616c.js",
+    "runtime-main.js.map": "/coba_react/static/js/runtime-main.6a09616c.js.map",
+    "static/js/2.3f3d6274.chunk.js": "/coba_react/static/js/2.3f3d6274.chunk.js",
+    "static/js/2.3f3d6274.chunk.js.map": "/coba_react/static/js/2.3f3d6274.chunk.js.map",
+    "index.html": "/coba_react/index.html",
+    "precache-manifest.bb10cc8ec5714ce75dd91d5b3588bb99.js": "/coba_react/precache-manifest.bb10cc8ec5714ce75dd91d5b3588bb99.js",
+    "service-worker.js": "/coba_react/service-worker.js",
+    "static/css/main.54e1ebc4.chunk.css.map": "/coba_react/static/css/main.54e1ebc4.chunk.css.map",
+    "static/js/2.3f3d6274.chunk.js.LICENSE.txt": "/coba_react/static/js/2.3f3d6274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a09616c.js",
+    "static/js/2.3f3d6274.chunk.js",
+    "static/css/main.54e1ebc4.chunk.css",
+    "static/js/main.57fa738f.chunk.js"
+  ]
+}
